@@ -63,8 +63,8 @@
     "randexp": "0.4.6",
     "semver": "5.4.1",
     "shelljs": "0.7.8",
-    "tabtab": "2.2.2",
-    "yeoman-environment": "2.0.5",
+    "tabtab": "3.0.2",
+    "yeoman-environment": "2.9.0",
     "yeoman-generator": "2.0.1"
   },
   "devDependencies": {
