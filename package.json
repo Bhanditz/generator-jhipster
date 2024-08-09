@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "chalk": "2.3.0",
-    "cheerio": "0.22.0",
+    "cheerio": "1.0.0",
     "commander": "2.11.0",
     "didyoumean": "1.2.1",
     "ejs": "2.5.7",
